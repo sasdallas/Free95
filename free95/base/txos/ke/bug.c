@@ -63,7 +63,7 @@ void KeBugCheck(uint32_t BugCheckCode)
 	DbgPrint(Message);
 	DbgPrint("\n\r");
 
-	/* This shit doesn't fucking work. Somebody help me before i start levitating and destroy mercury.
+	/* This shit doesn't fucking work. Somebody help me before I start levitating and destroy mercury.
 	   No more mercury, astrologer fuckers. */
 
 	ClearScreen();
